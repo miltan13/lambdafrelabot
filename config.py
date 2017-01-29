@@ -4,3 +4,4 @@ start = 'Рад приветствовать у огонька! Бот ещё в
 
 ban = 'уй иська лять изда идор'
 
+wd = {'Sunday': '7', 'Saturday': '6','Friday': '5','Thursday': '4','Wednesday': '3','Tuesday': '2', 'Monday': '1'}
